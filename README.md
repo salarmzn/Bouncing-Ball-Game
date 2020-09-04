@@ -1,2 +1,2 @@
 # Bouncing-Ball-Game
-This program need OpenGL library so OpenGL must be installed in your machine
+In order to use this code OpenGL library shoud be installed in your machine
